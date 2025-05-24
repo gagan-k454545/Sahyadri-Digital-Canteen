@@ -251,7 +251,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vercel** - Hosting and deployment
 - **Unsplash** - Food images used in the demo
 - **Lucide** - Icon library
-- **v0.dev** - AI-powered development assistance
+
 
 ## 📞 Support
 
