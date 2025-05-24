@@ -239,7 +239,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Gagan Kumar**
+**Gagan**
 - GitHub: [@gagan-k454545](https://github.com/gagan-k454545)
 - Project: [Sahyadri Digital Canteen](https://github.com/gagan-k454545/Sahyadri-Digital-Canteen)
 - Live Demo: [v0-foodcart-five.vercel.app](https://v0-foodcart-five.vercel.app/)
